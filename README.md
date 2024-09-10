@@ -12,6 +12,7 @@
 - 建立合作伙伴关系，共同为在线社区带来益处  
 
 📫 如何联系我：  
+- Twitter：https://x.com/koala_ip
 - 邮箱：koalaipproxy@gmail.com  
 - 网站：[Koala-IP 官方网站](https://www.koala-ip.com)  
 
